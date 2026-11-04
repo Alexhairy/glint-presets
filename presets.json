@@ -35,6 +35,125 @@
       "author": "Glint",
       "about": "A warmer, slightly dimmer screen for late-night browsing.",
       "code": "GL-310000PR5W8"
+    },
+    {
+      "name": "10/10 Vision",
+      "game": "Any game",
+      "author": "Alex",
+      "code": "GL-2EH8046GQTB5KMMR2RG"
+    },
+    {
+      "name": "Black Holo",
+      "game": "Rust",
+      "author": "Alex",
+      "code": "GL-26T004FZJ31RV42SR"
+    },
+    {
+      "name": "Rust Colouring",
+      "game": "Rust",
+      "author": "Alex",
+      "code": "GL-3Z7R04PHD2JB4S1R34DTY6KJ2G0"
+    },
+    {
+      "name": "Resurgence",
+      "game": "Any game",
+      "author": "Alex",
+      "code": "GL-3Z0R04THP3R7GS1F5RVK1R"
+    },
+    {
+      "name": "Great Colour",
+      "game": "Any game",
+      "author": "Alex",
+      "code": "GL-260804DFJ30AC"
+    },
+    {
+      "name": "Clean Colours",
+      "game": "Any game",
+      "author": "Alex",
+      "code": "GL-2Q0R0476DX8JYD5MNB0"
+    },
+    {
+      "name": "OLED with DisplayHDR",
+      "game": "Any game",
+      "author": "Alex",
+      "about": "Made on an OLED monitor with its DisplayHDR mode on.",
+      "code": "GL-2E0R04A8JV45ATB6G"
+    },
+    {
+      "name": "General",
+      "game": "Any game",
+      "author": "Alex",
+      "code": "GL-3Y0R04NHP252WS1A7TKT"
+    },
+    {
+      "name": "Black Holo 2",
+      "game": "Rust",
+      "author": "Alex",
+      "code": "GL-3F0005J2YA3S04V20"
+    },
+    {
+      "name": "Night",
+      "game": "Rust",
+      "author": "Alex",
+      "about": "For Rust at night.",
+      "code": "GL-3E0G05J3ZAHS2ZM60"
+    },
+    {
+      "name": "PvP",
+      "game": "Rust",
+      "author": "Alex",
+      "code": "GL-3Z0G04J1HJP7JS19KJQ8"
+    },
+    {
+      "name": "Neutral",
+      "game": "Any game",
+      "author": "Alex",
+      "code": "GL-3Z0R050HN2W5ZS1F4GPBGR"
+    },
+    {
+      "name": "Forest",
+      "game": "Rust",
+      "author": "Alex",
+      "about": "For Rust's forest areas.",
+      "code": "GL-3Z0004V1H2S76S1EP00"
+    },
+    {
+      "name": "Desert",
+      "game": "Rust",
+      "author": "Alex",
+      "about": "For Rust's desert areas.",
+      "code": "GL-3Z0004P1P2B71S1BPD0"
+    },
+    {
+      "name": "Snow",
+      "game": "Rust",
+      "author": "Alex",
+      "about": "For Rust's snow areas.",
+      "code": "GL-3Z0004M1N296QS1RM6G"
+    },
+    {
+      "name": "Black Holo 3",
+      "game": "Rust",
+      "author": "Alex",
+      "code": "GL-220001J6N"
+    },
+    {
+      "name": "Rust Vivid",
+      "game": "Rust",
+      "author": "Alex",
+      "code": "GL-3Z0R04M261S6XS145GSJV0"
+    },
+    {
+      "name": "Blue Grey",
+      "game": "Rust",
+      "author": "Alex",
+      "code": "GL-22T00DJ3NG34697"
+    },
+    {
+      "name": "Blue Grey 2",
+      "game": "Rust",
+      "author": "Alex",
+      "code": "GL-26T00CJSJ38SDJ6BE"
     }
   ]
 }
