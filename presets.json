@@ -3,42 +3,42 @@
   "presets": [
     {
       "name": "Vivid",
-      "game": "Any game",
+      "game": "Universal",
       "author": "Glint",
       "about": "Richer colour with a touch more contrast. A good first preset to try.",
       "code": "GL-2M00006J851G"
     },
     {
       "name": "Competitive clarity",
-      "game": "Any game",
+      "game": "Universal",
       "author": "Glint",
       "about": "Punchier colour, firmer contrast and slightly lifted mid-tones for spotting players.",
       "code": "GL-2W00006RAWF010"
     },
     {
       "name": "Night vision",
-      "game": "Any game",
+      "game": "Universal",
       "author": "Glint",
       "about": "Lifts dark areas so you can see into shadows and night scenes.",
       "code": "GL-380800VK6F0QG"
     },
     {
       "name": "Cinematic",
-      "game": "Any game",
+      "game": "Universal",
       "author": "Glint",
       "about": "Deeper contrast and slightly muted colour for story games.",
       "code": "GL-2M0400705RPMF"
     },
     {
       "name": "Soft evening",
-      "game": "Desktop",
+      "game": "Universal",
       "author": "Glint",
       "about": "A warmer, slightly dimmer screen for late-night browsing.",
       "code": "GL-310000PR5W8"
     },
     {
       "name": "10/10 Vision",
-      "game": "Any game",
+      "game": "Universal",
       "author": "Alex",
       "code": "GL-2EH8046GQTB5KMMR2RG"
     },
@@ -56,32 +56,32 @@
     },
     {
       "name": "Resurgence",
-      "game": "Any game",
+      "game": "Universal",
       "author": "Alex",
       "code": "GL-3Z0R04THP3R7GS1F5RVK1R"
     },
     {
       "name": "Great Colour",
-      "game": "Any game",
+      "game": "Universal",
       "author": "Alex",
       "code": "GL-260804DFJ30AC"
     },
     {
       "name": "Clean Colours",
-      "game": "Any game",
+      "game": "Universal",
       "author": "Alex",
       "code": "GL-2Q0R0476DX8JYD5MNB0"
     },
     {
       "name": "OLED with DisplayHDR",
-      "game": "Any game",
+      "game": "Universal",
       "author": "Alex",
       "about": "Made on an OLED monitor with its DisplayHDR mode on.",
       "code": "GL-2E0R04A8JV45ATB6G"
     },
     {
       "name": "General",
-      "game": "Any game",
+      "game": "Universal",
       "author": "Alex",
       "code": "GL-3Y0R04NHP252WS1A7TKT"
     },
@@ -106,7 +106,7 @@
     },
     {
       "name": "Neutral",
-      "game": "Any game",
+      "game": "Universal",
       "author": "Alex",
       "code": "GL-3Z0R050HN2W5ZS1F4GPBGR"
     },
